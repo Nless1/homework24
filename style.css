@@ -1,0 +1,8 @@
+.block{
+  height: 200px;
+  background-color: gray;
+  position: fixed;
+  bottom: 100px;
+  right: 50px;
+  left: 50vw;
+}
